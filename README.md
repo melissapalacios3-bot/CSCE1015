@@ -1,6 +1,6 @@
 # CSCE1015
 Assignment repository for UNT CSCE1015
-#EUID
+## EUID
 mp1610
-#Professor
+## Favorite Professor
 Himanshu Sharma
